@@ -4,9 +4,9 @@
 
 <h2 align="left">📱 Contact</h2>
 
-<a href="malito:allan.sgnutzmans@gmail.com" target="_blank" rel="noreferrer">
+<a href="malito:allan.sgnutzmans@gmail.com" target="_blank" rel="noreferrer"></a>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
@@ -45,11 +45,9 @@
   ![Image](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
   ![Image](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
 
-  interests
+<h3 align="left">🔭 Framework goal</h3>
+  
   ![Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Image](
-
-<h3 align="left">🔭 I’m currently working on PHP small personal projects</h3>
 
 <h3 align="left">Hobbies (code for fun):</h3>
   
