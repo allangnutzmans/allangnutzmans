@@ -5,8 +5,9 @@
 <h2 align="left">📱 Contact</h2>
 
 <p>
-  <a href="malito:allan.sgnutzmans@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  
+  <a href="malito:allan.sgnutzmans@gmail.com">allan.sgnutzmans@gmail.com</a>
 </p>
 
 
