@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">Allan Gnutzmans</h1>
+<h1 align="center">Allan Gnutzmans</h1>
 
 <p align="center">https://allangnutz.com/</p2>
 
