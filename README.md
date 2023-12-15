@@ -47,7 +47,7 @@
   ![Image](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
   ![Image](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
 
-<h3 align="left">🔭 Framework goal</h3>
+<h3 align="left">🔭 Goal Framework</h3>
   
   ![Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
