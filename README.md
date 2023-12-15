@@ -8,6 +8,10 @@
  ![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")
   
   <a href="malito:allan.sgnutzmans@gmail.com">allan.sgnutzmans@gmail.com</a>
+  
+  <a href="https://www.linkedin.com/in/allan-gnutzmans-5424191b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="VagnerGrizoste094" />
+ </a>
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -59,7 +63,11 @@
   ![Image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![Image](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
   ![Image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
+
+<p>
+    <img style="width:60%;" src="https://github-readme-stats.vercel.app/api?username=allangnutzmans&show_icons=true&theme=github_dark" alt="allangnutzmans" />
+    <img style="width:60%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&theme=github_dark" alt="allangnutzmans" />
+</p>
 
 <!--
 Here are some ideas to get you started:
