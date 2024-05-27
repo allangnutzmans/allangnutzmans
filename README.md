@@ -5,7 +5,7 @@
 <h2 align="left">📱 Contact</h2>
 
  
- ![Image]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
+ ![Image]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white])
   
   <a href="malito:allan.sgnutzmans@gmail.com">allan.sgnutzmans@gmail.com</a>
   
