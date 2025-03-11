@@ -41,8 +41,8 @@
 
 <p>
     <img style="width:60%;" src="https://github-readme-stats.vercel.app/api?username=allangnutzmans&show_icons=true&theme=github_dark" alt="allangnutzmans" />
-    [![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allangutzmans)](https://github.com/allangutzmans/github-readme-stats)
 </p>
+[![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allangutzmans)](https://github.com/allangutzmans/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
