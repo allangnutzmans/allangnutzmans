@@ -42,7 +42,6 @@
 <p>
     <img style="width:60%;" src="https://github-readme-stats.vercel.app/api?username=allangnutzmans&show_icons=true&theme=github_dark" alt="allangnutzmans" />
 </p>
-![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact)
 
 
 <!--
