@@ -44,7 +44,7 @@
 </p>
 
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <!--
 Here are some ideas to get you started:
