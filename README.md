@@ -44,11 +44,7 @@
 </p>
 
 
-<p>
-    <img style="width:60%;" src="./profile-3d-contrib/profile-night-green.svg" alt="allangnutzmans" />
-</p>
-
-![](./profile-3d-contrib/profile-night-green.svg)
+[![](./profile-3d-contrib/profile-night-green.svg)](https://raw.githubusercontent.com/allangnutzmans/allangnutzmans/ea2b1dc31787650ed2e2c7ff2b4a252551577212/profile-3d-contrib/profile-night-green.svg)
 
 <!--
 Here are some ideas to get you started:
