@@ -20,6 +20,7 @@
   ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![Image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Image](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
   ![Image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Image](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
@@ -30,12 +31,13 @@
   ![Image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![Image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-  
   ![Image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Image](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
   ![Image](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
   ![Image](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
+  ![Image](https://img.shields.io/badge/-Blockchain-323232?style=for-the-badge&logo=blockchain&logoColor=white)
+  ![Image](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+  ![Image](https://img.shields.io/badge/-Chainlink-2A5ADA?style=for-the-badge&logo=chainlink&logoColor=white)
 
 
 
