@@ -58,6 +58,8 @@ I'm a full-stack developer with experience in web development, blockchain techno
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-0F0F0F?style=for-the-badge&logo=cursor&logoColor=white)
 
+## Other
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,nuxt,jquery,tailwind,bootstrap,mui,vuetify,pinia,nodejs,npm,pnpm,express,php,laravel,postgres,mysql,prisma,git,github,docker,azure,vite,jest,vitest,solidity,github,figma)](https://skillicons.dev)
 
 ## Programming Stats
 <div align="center">
@@ -94,6 +96,10 @@ I'm a full-stack developer with experience in web development, blockchain techno
     />
   </picture>
 </p>
+
+
+
+
 
 <!--![Image](https://raw.githubusercontent.com/allangnutzmans/allangnutzmans/ea2b1dc31787650ed2e2c7ff2b4a252551577212/profile-3d-contrib/profile-night-green.svg)-->
 
