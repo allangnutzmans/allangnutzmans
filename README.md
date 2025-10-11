@@ -1,3 +1,12 @@
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=allangnutzmans&theme=vue-dark&dates=979797&stroke=00000000&background=00000000&fire=fff&hide_border=true" />
+    </td>
+  </tr>
+</p>
+
+
 <h2 align="left">💻 About Me</h2>
 
 I'm a full-stack developer with experience in web development, blockchain technologies, and smart contracts. I work with modern frontend and backend frameworks, and I'm passionate about building secure, scalable, and innovative applications using the latest technologies including Solidity, Chainlink, Tailwind CSS, and TypeScript.
