@@ -58,20 +58,21 @@ I'm a full-stack developer with experience in web development, blockchain techno
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-0F0F0F?style=for-the-badge&logo=cursor&logoColor=white)
 
-<p>
+
+## Programming Stats
+<div align="center">
 <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-two-orpin-74.vercel.app/api?username=allangnutzmans&show_icons=true&theme=default"
+      srcset="https://github-readme-stats-two-orpin-74.vercel.app/api?username=allangnutzmans&theme=vue-dark&line_height=36&border_radius=7&show_icons=true&card_width=315"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-two-orpin-74.vercel.app/api?username=allangnutzmans&show_icons=true&theme=default"
+      srcset="https://github-readme-stats-two-orpin-74.vercel.app/api?username=allangnutzmans&theme=vue-dark&line_height=36&border_radius=7&show_icons=true&card_width=315"
     />
     <img
       alt="GitHub Stats"
-      src="https://github-readme-stats-two-orpin-74.vercel.app/api?username=allangnutzmans&show_icons=true&theme=default"
-      style="width:60%;"
+      src="https://github-readme-stats-two-orpin-74.vercel.app/api?username=allangnutzmans&theme=vue-dark&line_height=36&border_radius=7&show_icons=true"
     />
   </picture>
 
@@ -81,20 +82,18 @@ I'm a full-stack developer with experience in web development, blockchain techno
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-two-orpin-74.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&theme=default&cache_seconds=1"
+      srcset="https://github-readme-stats-two-orpin-74.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&langs_count=8&card_width=440&theme=vue-dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-two-orpin-74.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&theme=default&cache_seconds=1"
+      srcset="https://github-readme-stats-two-orpin-74.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&langs_count=8&card_width=440&theme=vue-dark"
     />
     <img
       alt="Top Languages"
-      src="https://github-readme-stats-two-orpin-74.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&theme=default&cache_seconds=1"
-      style="width:60%;"
+      src="https://github-readme-stats-two-orpin-74.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&langs_count=8&card_width=440&theme=vue-dark"
     />
   </picture>
 </p>
-
 
 <!--![Image](https://raw.githubusercontent.com/allangnutzmans/allangnutzmans/ea2b1dc31787650ed2e2c7ff2b4a252551577212/profile-3d-contrib/profile-night-green.svg)-->
 
