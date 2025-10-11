@@ -50,7 +50,40 @@ I'm a full-stack developer with experience in web development, blockchain techno
 ![Cursor](https://img.shields.io/badge/Cursor-0F0F0F?style=for-the-badge&logo=cursor&logoColor=white)
 
 <p>
-    <img style="width:60%;" src="https://github-readme-stats.vercel.app/api?username=allangnutzmans&show_icons=true&theme=github_dark" alt="allangnutzmans" />
+<picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-git-master-allangnutzmans-projects.vercel.app/api?username=allangnutzmans&show_icons=true&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-git-master-allangnutzmans-projects.vercel.app/api?username=allangnutzmans&show_icons=true&theme=default"
+    />
+    <img
+      alt="GitHub Stats"
+      src="https://github-readme-stats-git-master-allangnutzmans-projects.vercel.app/api?username=allangnutzmans&show_icons=true&theme=default"
+      style="width:60%;"
+    />
+  </picture>
+
+  <br />
+
+  <!-- Top Languages -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-git-master-allangnutzmans-projects.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&theme=radical&cache_seconds=1"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-git-master-allangnutzmans-projects.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&theme=default&cache_seconds=1"
+    />
+    <img
+      alt="Top Languages"
+      src="https://github-readme-stats-git-master-allangnutzmans-projects.vercel.app/api/top-langs/?username=allangnutzmans&layout=compact&theme=default&cache_seconds=1"
+      style="width:60%;"
+    />
+  </picture>
 </p>
 
 
